@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a full-stack developer that is experienced in modern frontend frameworks like react and node.
 
 
