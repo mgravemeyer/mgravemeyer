@@ -1,4 +1,5 @@
-Welcome to my page!
+## Welcome to my page!
+
 I'm Max, Fullstack developer from 🇩🇪 Berlin, Germany.
 
 ## Things I code with
