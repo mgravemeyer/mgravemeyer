@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my page! </h1>
 
-<p>I'm Max, Fullstack developer from 🇩🇪 Berlin, Germany.</p>
+<p>I'm Max, a full stack developer from 🇩🇪 Berlin, Germany.</p>
 
 [My Website](https://mgravemeyer.com) <br/>
 [E-Mail](mailto:m.gravemeyer@icloud.com) <br/>
